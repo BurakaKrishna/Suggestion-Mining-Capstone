@@ -1,1 +1,1 @@
-# Suggestion-Mining-Capstone
+# Suggestion Mining Capstone
