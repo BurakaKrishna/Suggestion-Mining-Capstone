@@ -1,0 +1,1001 @@
+ID,Sentence
+0,"Im not asking Microsoft to Gives permission like Android so any app can take my data, but dont keep it restricted like iPhone."
+1,somewhere between Android and iPhone.
+2,And in the Windows Store you can flag the App [Requires Trust] for example.
+3,"Many thanks Sameh Hi, As we know, there is a lot of limitations is WP8 OS due the high security in the OS itself which is very good, but some time we need to allow some apps to do extra works, apps which we trust i.e: hotmail app, facebook app, skype app ...."
+4,"The idea is that we can develop a regular app and we request our permissions in the manifest, OR the app can ASK FOR TRUST_?_ more"
+5,Please add this simple and extremely helpful feature.
+6,Why not let us have several pages that we can put tiles on and name whatever we want to .
+7,The Idea is if user running our app and by any reason he rebooted the phone so in that case once reboot happen there should be some event so that we can detect that phone is rebooted and we can handle our application accordingly
+8,Add support for the biometric framework from windows 7/8 to allow hardware manufactures to add fingerprint sensors for device login (login allows standard user & guest/kid mode) and for wallet (WP8) transaction activation.
+9,"It would be more natural to allow the physical search key to activate the search function on the active application, rather than loading Bing which is rarely the goal."
+10,Allow platform built-in camera and video apps to use increase and decrease volume hardware keys for picture optical and digital zoom of camera.
+11,"On WP8 add optional support to hook these hardware keys press events for the lens (plug-in) features...hardware keys should include vol+, vol-, stage 1 (light press) camera shutter, stage 2 (deep press) camera shutter."
+12,I believe there needs to be a marking system in the OS like the option of marking several emails in the pop mails.
+13,"If I intend to delete several files(photos, songs) there should be an easier way to do it."
+14,"You can put other apps in one folder, and put on startscreen like a tile."
+15,"This is total uncomfortably, i think about give to user, a choose what he want to bind on search button."
+16,It would be awesome.
+17,Make it so that you have to enter a password for apps of your choice
+18,"Big files cant be transfered using skydrive, it is not praticle!"
+19,It would be an improvement if they displayed as graphic Smilies instead.
+20,"The UserControl should run in the context of the application that created the Alarm or Reminder, and as such would have access to the appropriate view models."
+21,Need an option to remove unused variables in cs file for re factoring.
+22,Use the usb as removeable disk
+23,Pls introduce pattern lockscreen like android.
+24,Only after repairing the installation will the emulator work.
+25,If I close the emulator and try to run it again.
+26,It fails with a uninformative message indicating deployment failed.
+27,"information on the screen locked, temperature, news of facebook and Twitter and lock with letters and numbers"
+28,Search text
+29,I wish apis for save photos in camera roll in png format; not only as lossy jpeg format.
+30,"Having native access to OpenCL or C++ AMP support would be nice to have, especially with the newer hardware arriving with WP8."
+31,Please help me Im Ahmed from Iraq I wanna get Arabic keyboard in my WP please !!!
+32,"When an application has problems or when a problem is detected in advance by the developer, until the publication of the correction version the client is without knowing what is happening."
+33,This way we can give a satisfaction to all who buy or evaluate our applications.
+34,This communication channel can use the Bing Translator to generate the statement in the languages in which the application has been translated.
+35,I believe it is a feature that will cherish Microsoft to customers and that demonstrates respect for the consumer.
+36,"In some cases missing answer key after unlock, when phone is locked, also missing call alert network enable/disable (network code is *#43# for verify, *43# for enable and #43# for disable)."
+37,What I am asking for is some key that will act like the Screenshot->Capture command without me having to change tabs in the Emulator window or release the Accelerometer.
+38,Even something as simple as ctrl+S would be a godsend for me.
+39,"If I am lucky I can do it before my character dies, even then though the player is just moving in a straight line to nowhere_?_ more"
+40,"Please allow users to view comments in office docs i.e word, ppt, excel....also allow user to add comments on these docs"
+41,Provide a single link to retrieve all the applications by a specific Publisher like the Android Market.
+42,Please show the scrollbars in the WebBrowser control.
+43,There are times when this is greatly needed!
+44,"The other smartphone platforms like Android, iOS and Blackberry supports launching one App from another and passing data between them."
+45,This is really important when a same organisation develops multiple apps and wants them to interact with each other.
+46,"If this feature will be implemented without affecting the security model of WP, then it will be great for the WP developer world."
+47,I keep getting birthday notifications a day too early.
+48,the date in the peoplehub does not align with the calendar.
+49,"With WP7 we have the unique ability to offer Trails for Paid Apps, which is great."
+50,"However, it would be nice if developers could offer Free Apps with a possibility to users for voluntary donations."
+51,"Some devs do the workaround and offer a Paid app, with the trial version having no restrictions at all (if the user clicks buy, he essentially donates to the dev)."
+52,"However, this workaround has the disadvantage of the app not apprearing in the free category, though they are actually free."
+53,"Therefore, it would be great if devs could put apps in the marketplace offering two buttons: install (free) and install and donate (e.g.0,99$)."
+54,"The price could be splitted 30-70 just like with paid apps, just with the difference of the app appearing in the free category."
+55,The current process is very lengthy and costly for non US developers.
+56,Why cant Microsoft simplify it?
+57,Make it similar if not the same as Google!?!?!
+58,"Having read through the cumbersome process, I am more incline to build FREE apps with subscription rather than getting any money through the Marketplace."
+59,Having to deal with physical paperwork (sending it back and forth) is a step backwards... we are living in a digital world!
+60,"There are heaps and HEAPS of really good developers outside of US who really want to contribute to making Windows Phone a preferred choice, so please Microsoft; make it simplier and make it DIGITAL!"
+61,"It would be really helpful if, for example, a developer makes an app that takes advantage of the schedule alarm API, and would like to enable the user to select a custom ringtone for that alarm."
+62,"This API proposal would enable the user to select from many ringtones already available on the phone, and save developers the trouble of having to implement their own custom ringtones."
+63,"If you try to copy-paste multiple recipient number to the To: box in the messaging, the 2nd until the last number will be duplicated."
+64,Even as a developer we can create most of the apps for individual users that is standalone. 
+65,"If we need to target corporates then then we would need more APIs for device management, also like Zune (for a single user), we would need an Enterprise Server Application which can control the devices (of employees) remotely where we can apply corporate policies on the device as well."
+66,Make some usefull app that run ussd code....
+67,Please allow the access to Gmails Todo list sync when a google account is added on the windows phone.
+68,"Under calendar I see the todo list of hotmail and I like it, it would be great if I can add the gmails ones too and have the ability to make changes when sync happens or just have the ability to add todo items and those get sync to the phone."
+69,"Hi, the biggest icon size requited is 200x200 bit in the Marketplace single App page this is resized to 240x240 losing quality."
+70,You cant add/update/delete alarms or reminders from a BackgroundAgent.
+71,Itd be great if we at least has the ability to change/edit reminders and alarms that were created by that app.
+72,And I want to get that response to my app to hanle it.
+73,It would be very useful to be able to change the names that my apps appear as when I check the App Hub dashboard.
+74,"Developers must be given additional enumeration values in Socketype and ProtocolType to create variety of sockets like raw sockets based on ICMP, IGMP... etc."
+75,Allow to create Alert and Reminder from Background Task execution.
+76,Allow Orientation=horizontal on a listbox I would like to use the selectionchanged event handler to create a menu using the listbox control.
+77,As the heading says provide tools to prevent users from reinstalling apps rather than buy the full version and stop devs from being deprived of purchases that they deserve.
+78,"As half the point of my app is the information on the live tile, Id like to have a polite reminder show every so often if they havent pinned it, but I simply dont know whether they have or not."
+79,Disable the feature entirely.
+80,"Detect when there is a screen shot attempt so we can programmatically not display, obscure, or watermark our graphics."
+81,"Like Android we need Phone level events like (SMS received/sent event, Camera ON/OFF event, Phone turned ON/OFF event, Keypad lock event etc.)"
+82,I would like a phone remote in windows 8.
+83,"Once a application is installed in WP, there should be some way to run that application without user input i.e."
+84,"Specifically, we will want the ability to have selective enabling of application features so that when the WP7 are run (after server-side conversion?)"
+85,"on newer hardware, they switch to the newer profile."
+86,"Barring that, at least allow for merged listings for WP7 and WP8 versions so that customers have a clear upgrade path for the same application."
+87,"Or, you could just support the native SDK/Direct X on WP7."
+88,Ill take that over the previous two.
+89,"Barring that, at least allow for merged listings for WP7 and WP8 versions so that customers have a clear upgrade path for_?_ more"
+90,The concept explains itself well in below blogpost: WinRT Transitions _?_ Creating Fast and Fluid Metro UIs http://www.scottlogic.co.uk/blog/colin/2011/10/winrt-transitions-creating-fast-and-fluid-metro-uis/
+91,Using Vodafone GSM and the used data includes Unicode characters thus whole message is failed.
+92,"i could imagine, that in the same way the sms-icon is shown on the lockscreen, a mini app icon is shown aswell, from apps that got notifications (facebbok, whatsapp....)"
+93,"Add an option to delete future appointment in Calendar and preserve previous, when used the option to repeat"
+94,Platform should provide access to call log so you can create applications which for example retrive unknown numbers from call log and find their information from public directories.
+95,"The customized unlock apps are very popular on android and symbian, we hope that we could do the same on WP7."
+96,"At the moment, there is 1-to-1 relation between companies and countries."
+97,Its OK for small business but what about bigger one?
+98,We have several dev-centers in 3 countries and extra sales-offices in more countries.
+99,"Same time, WP7 registration intends we MUST use 1 country only."
+100,"These descriptions also appear differently depending on where they are being viewed (web, zune on PC or device)."
+101,"The Update Description field has a documented purpose, but then in the forums I read that this field does not appear in the Marketplace."
+102,Please provide a way to 1) predictably introduce newlines into the description fields 2) let me see how these fields will render in the different environments (WYSIWYG) 3) show me how the Update Description will be used in my updated app There does not seem to be a way to control newlines in the application descriptions on the Marketplace.
+103,Please provide a way to 1) predictably introduce newlines into the description fields 2) let me see how these fields will render in the different environments (WYSIWYG) 3) show me how the Update Description will be used in my updated_?_ more
+104,Quicker way to go to the bottom of the metro screen to view tons of pined apps.
+105,I currently develop for Android and iOS.
+106,"I am interested in developing for Windows Phone, but would need a device, to pay registration and learn a 3rd platform to do so."
+107,"That involves a lot of time, which is a large risk to smaller development companies. "
+108,"If Microsoft created some incentives, like a free device (Blackberry did this) and a free year of membership (Amazon did this) it could drive a lot of developers to the platform which is crucial to the platform taking off."
+109,I would jump at the opportunity to adapt my apps for Windows Phone if Microsoft created incentives for me to try the platfrom.
+110,Cant use keyboard in landscape mode in some app
+111,You would finally be able to add and customize your alert and text sounds! 
+112,Of course each app would have permission accepted by user and each app would have own isolated storage for more private.
+113,It would be nice to see Windows Phone move to optional vector based icons instead of static bitmaps. 
+114,This would allow the application bar (or appbar) to resize if say HD screens were added.
+115,"Ideally, users would only need 2 icons for the marketplace: Tile (contains the application name), and List (just the icon for the app list)."
+116,Appbars could be created at 48x48 and resized as needed.
+117,"I know this is a pain on developers that are not designers or have designers, but an option would be nice time saver for the future."
+118,It would be nice to be able to delete a cert you have uploaded.
+119,"Id like to be able to decorate my home screen by pinning my favorite photos, directly from within the pictures application."
+120,Allow users to organize tiles into separate hubs.
+121,A secondary start hub I can use to store occasionally used apps would be good.
+122,An automated hub for recently used apps would also be good.
+123,Please allow the access to phone filesystem.
+124,It would be a great benefit if the developers can manipulate the sdcard resources etc etc.
+125,"HP have the ePrint functionality, Apple the Airprint."
+126,Can you not make connection to these devices possible?
+127,I want to give a textbox a placeholder text.
+128,This now requires creating a custom control.
+129,I want this to be available out of the box.
+130,"Oh, and I want the option to create labels for the textbox."
+131,Provide the access to pictures in PhotoChooser and Camera Roll in emulator
+132,Since the easiest way to get hold of files to be used in programs is by downloading them from a network or the internet and saving them in isolated storage it would make the whole thing a lot easier if you could do this with FTP.
+133,FTP is still one of the most used protocols for retrieving files.
+134,And using a proxy is not always an options since some of us would like to be able to reach FTP servers that is on a separate network.
+135,"IMAP idle for push emails and sync read, forward and answered mails plus sync send folder!"
+136,Email for business is very impotant!
+137,"For all the guys & girls over the 45 years old, de need a really big clock in the main display."
+138,Thanks (sorry about my english).
+139,Positioning cursor is almost imposible
+140,WP should support ussd menu and umb as well
+141,"Once removed the Metro interface looks good from a desktop app, but on the mobile phone is horrible."
+142,"When the volume is in the rang 01-09, the volume does not decrease."
+143,"Continuing my prior post about allowing us to explicitly flip secondary live tiles with a tap instead of launching the app, this request would allow such an action to explicitly update the tile by triggering a function call in a background task."
+144,"Perhaps these two ideas are combined and you define which action to take when creating/updating the tile... Flip the tile, execute a background task (or both), or simply launch the app like normal (possibly with deep toast.)"
+145,"That would really make LiveTiles Live which now, they kind of arent and were by *far* the biggest disappointment when we saw the actual SDK."
+146,"Coming from iOS, when we did see that, we scrapped two apps we were going to release on WP7."
+147,"(A third was scrapped because of the inability to do location tracking in a background task more frequently than once every 30 minutes, which is sort of the same stale data issue as here.)"
+148,"Since its user-initiated, it wouldnt drain_?_ more"
+149,"In the Schedule Namespace ist isnt possible to have access to the Media Library to play Songs, User has already on his Device -> Please add this function to get access to the Media Library."
+150,"Another thing is, to have the possibility to modify the Notification, wich is shown, when the Alarm or Reminder Rings."
+151,"We need to open our Application, or to overwrite the notify to costumize it to get a better improvement for the user."
+152,"Extend the API to query phone volume and vibration settings, maybe even set them."
+153,Please provide validation templates for WindowsPhone controls.
+154,"However, not everybody has a physical device, so having those experiences in the emulator would be a great addition to the dev tools and resources."
+155,"Would be nice and useful to have email messages grouped by date, same as contacts grouped by initial letter."
+156,For sharing audio and video there should be a very plain possibility to share stuff as already encoded package.
+157,Perhaps that could be available as Toolkit in codeplex.com.
+158,There needs to be an Alpha Test mechanism available.
+159,"Since the beta test versions I recently submitted have been waiting for certification for 9 days, there is no way for us to work together on this."
+160,My boss is not a developer and has no development tools but absolutely needs to see the progress of development in a timely manner.
+161,If the Beta program certified apps in a day then this might not be a problem.
+162,"As it is, it is hardly usable as a beta test program since our customers also need to see the app and improvements in a timely manner."
+163,"We need support special multitasking tasks, like VOIP and IM!"
+164,"We cant create good apps for this services without this API, looks on your Skype client, wtf??"
+165,iOS already has this APIs!
+166,"Volume on headphone, when phone rings while listening to a song, raise to max volume."
+167,Multi-select on Zune to delete Albums or to create a playlist
+168,"Read/write accsess to email sync settings could enable applications to create custom sync profiles (based on week-days, time, position, etc)."
+169,Implement Soundwave touchless api on the phone for touch free Metro.
+170,Microsoft boffins showed how they can use audio via the speaker and microphone and a dopplar computation to detect gestures without touching the screen.
+171,I want to use that on the Phone for some games.
+172,"In the submission process, publishers should be able to check a box for apps that are made for individuals 13 or older and 18 or older."
+173,"This should flag a feature in the marketplace, when an app is being downloaded, to verify the age of the downloader."
+174,"In WP7 you can add multiple accounts of different types (Live, Google, Facebook, etc)."
+175,It would be nice to be allowed to get basic information about these accounts.
+176,"For example, get a list of all email accounts and for each account report the number of unread emails."
+177,I think there are two ways to improve the beta program: 1.
+178,Make apps available immediately.
+179,"When developing on iOS (using testflight) or Android, we dont have to wait two hours for beta code to be approved."
+180,We upload a new version or have the users download an update immediately.
+181,"If immediate approval is not possible, then apps that have been published should be immediately available."
+182,"When we receive emails saying the beta application is published, users are not able to download the application with the very own links provided in the email."
+183,Users are reporting a 1-2 day time between when the app is approved to when it is available for download.
+184,Users receive a strange marketplace error when trying to download the application.
+185,When developing apps it is often useful to leverage existing Launchers and Choosers as Tasks to access certain data or perform an operation.
+186,It would be ideal to allow apps to expose certain bits of data or functionality to other apps to provide a complementary experience in terms of reuse of information or performing similar tasks.
+187,Imagine shopping apps being able to share a set of data such as a wish list or news apps being able to share a list of news feeds.
+188,"Imagine having an installed app do what it does best for another app, such as perform a series of complex calculations or gather weather data."
+189,It would be the responsibility of the app to decide what it exposes for data or functionality.
+190,This can first be alleviated as with other security screening by prompting the user to allow an app to access another apps tasking features.
+191,"In such case, youd better make your videos carefully so that it can leave a good user experience to the potential clients."
+192,"If you convert video to FLV flash video, which features much smaller size than popular formats, your videos will be watched unhinderedly with quick loading."
+193,select FLV as output format
+194,"If you are more requirements of your video, such as bit rate, encoder, etc, you are do these settings one by one in the pop-up Formats window."
+195," When everything is finished, you can click Start button to start the video to FLV conversion process."
+196,You are allowed to preview the converting process in slideshow.
+197, MPEG or ect.
+198,"If you convert video to FLV flash video, which features much smaller size than_?_ more"
+199,Allow the BackgroundAudioPlayer to play tracks from the MediaLibrary.
+200,Or allow applications that implement the XNA MediaPlayer class to run in the background.
+201,"Please add the possibility to add your own spell check service, or provide the data if a system wide one existed."
+202,"When I want to build some tiles in my app, I have to use buttons that I give a custom style."
+203,"But this is ugly since everyone implements this in another way, resulting in odd alignments, bad text colours, etc."
+204,We need a simple and standardized way to create simple tiles that function as buttons.
+205,Beta testers test our apps for free.
+206,It would be nice if when the app/game is published in the marketplace we could include a list of the testers that helped us so they can get the app from free instead of having to buy it.
+207,"Android,iOs and Blackberry are compatible with this API So why dont we"
+208,"I would be a really nice gesture to have an option wich can put everything to the other side, so when left handed people scroll, they could also see the content."
+209,Visual Studio 11 and new Expression Blend.
+210,Merge products together.
+211,"Add open app in marketplace in the app menu (rate & review, uninstall, pin to start)"
+212,It does not look professional when scrolling upward at the end of any page or downward at the top the content of the page regardless of material or application will be stretched down
+213,It is part of the effect through the whole operating system and does not particularly belong to any application.
+214,Sometime the stretched content of the page does not look professional.
+215,We need UPD broadcast to search for our devices in the network.
+216,"When an exception is thrown and intercepted by the debugger, Edit and Continue permits to change your code right while debugging to make the code continue."
+217,We can allow music that is not copyrighted to be accessible if that is a huge issue.
+218,"Link to sql is not efficient at all, could they include sql , sqlight or other library."
+219,"It s impossible to connect easily to ftp network, I suggest to include it in the future sdk."
+220,We want an Office Hub that open Openoffice document.
+221,Currently for dynamic data binding controlls like listbox  is recommended.
+222,Why cant I change phone search and IE search to Google or another provider that actually work?
+223,Fix Bing or fix the phone.
+224,"At best this is unclear, but should the user pan or zoom they lose the frame of reference for the place were trying ot show them."
+225,You can sometimes work around this behaviour by specifying a search for the place youre trying to indicate but this is dependent upon the search results.
+226,If the search finds nothing you get no pin.
+227,Or if the search finds something other than what you intended you can end up with a pin (or pins) far from where you want them.
+228,If it were possible to tell the task to show a pin (or pins) at a specific point (or points) that that would allow for a better user experience.
+229,Even if we could just specify a label for the pin that would be better than nothing.
+230,"Add an option Private to lock photos, movies, songs, calendar appointments..."
+231,An exit button should be there on all application softwares.
+232,"Show used volume, so you can see how much MB of your inclusive volume is already used."
+233,We could just upload a CSR and Microsoft provide a signed certificate via their own CA.
+234,It would be nice if a choice between vibration and the sound is given for typing
+235,Pin settings airplane mode wifi etc in the start screen
+236,"Allowing for tester groups or profiles would allow for efficient test setup in the Marketplace, especially for multiple products, by allowing a group to be assigned to the app as it is entered in the Marketplace as a beta."
+237,"Additionally, it would be great to have additional support for Enterprise developers that target a specific set of clients as opposed to the public masses of the Marketplace."
+238, while at the same time providing additional benefits to larger enterprise-level corporations.
+239,"Ideally, a mini storefront or splash page for the company and product would help draw in clients."
+240,"Allowing for tester groups or profiles would allow for efficient test setup in the Marketplace, especially_?_ more"
+241,"If the app shows sensitive data when deativated, it would be good to be able to use a different image for fast app switching instead of a screenshot of the application"
+242,"Daemon service should be turnable on and off per app basis, in the same way like periodic tasks."
+243,Microsoft should advertise windows phone development APIs in Visual Studio
+244,"Please make it instead fire an event, which could be used to open an apps search bar or page."
+245,At least support displaying static GIF image.
+246,"Back and forward buttons needed, not the capacitive back button."
+247,Please consider to enable support for unsafe code in Silverlight and Xna apps.
+248,Maximizing all current main apps would be better than having 1mil appd in the marketplace.
+249,Create option to allow Periodic Agents to run even if app has not been opened for x days.
+250,This gives my family up to four LIVE accounts.
+251,"On an Xbox, we can log in and play games no problem, yet a W7 phone allows for only one user."
+252,"I cant even log in to another account to check or edit it, let alone play games with it."
+253,A certain rival brand of phones allows users to switch between their LIVE equivalent accounts with no problems whatsoever.
+254,"I bought my WP7 phone with gaming in mind, but theres more than one gamer in this house - please make it possible for several gamertags to be used on one device!"
+255,Keeping the message as draft when exiting would save me the hassle of having to type it again...
+256,Can we have windows phone development using visualstudio lite IDE which includes only phone developement.
+257,"Start by expanding the number of apps that can use a certain key word, such as childrens stories so that new apps who innovate can displace those who got their first with potentially crappy apps."
+258,"Secondly, you need to limit the number of apps that a publisher can submit with a particular key word."
+259,"We should have some way within our app to get notify that whether user selected call, dont call and when he/she ended call means notification of end call."
+260,"It would be more useful if specific Service apps could be released that would extend these features by, for example, adding a Google+ option to the sharing interface."
+261,"Would be nice if in power point, could have same method as in pictures hub for navigation."
+262,"Received from an MVP this week over email: It would be great to be able to have the emulator location data use the NMEA file format - either via file import/export, or using the files directly as a feed."
+263,Other devices use this format and it would be great to see it supported by Windows Phone.
+264,they all use Sip so it would be great to have a native sip client integrated.
+265,Also a T9 keyboard would be nice too.
+266,I want to be able to add a picture to the media library and then start the SharePictureTask to let the user see and share it from the Pictures Hub
+267,Remove the 50 apps limit from the phone and 100 app limit from the marketplace web site when users search for an app with a search term.
+268,add a quick access Block button/function to be used when receiving spam over chat
+269,I would like to see a monthly/yearly subscription model introduced that let me charge users $5 a year for my app for example.
+270,We really need Assembly Binding Redirection (or Publisher Policies) in Windows Phone!!
+271,It would be great if you could add .png support to the medialibrary so that we can save high quality png files to the picture library.
+272,"Being able to use simple uncompressed .wav files would open up many possibilities for ring tone editors, and make files recorded from the microphone ready to be used as ringtones."
+273,It would be great if the Windows Phone development team could allow us to use the RSTP streaming protocol in .NET Compact Framework we use.
+274,Provide preference setting to categorize apps in the long list by their categories in app store rather than names or alphabetical order...this is extremely helpful for people with lots of apps and provide the ability to maintain the uniformity of the UI while making it more user friendly
+275,This will provide more usability of the live tiles on the start menu..especially when one needs to drag multiple tiles through long list
+276,Please get metequotes to make metatrader for Windows Phone.
+277,"Need of Logger Class to log error,Info,Verbose and daemon Information."
+278,As it is available in android.It improves the debugging process.
+279,"It displays the certificate signer information, but you could easily upload two certificates with different CNs (service names) issued by a single CA and you would have no way of telling them apart."
+280,"Minimally it should show the CN from the subject which matches the service name you provide in client code, along with the CN of the signer. "
+281,Ideally it would allow you to download the certificate for verification or at least provide a md5 hash of the uploaded certificate.
+282,Right now you can upload an unsupported certificate or even self-signed cert and apphub will not provide any feedback.
+283,Allow the user to be able to set a custom reminder time such as 2 hours or 1.5 hours before the Calendar entry.
+284,At present you only provide fixed values like 1hr or 18hr before!
+285,tesco club card app shows you points and you have you clubcard bar code avaible on your phone to scan at checkout
+286,"apps has your nectar that you are able to scan in stores, also shows you your points balance, and allows you to shop online and collect more nectar points."
+287,I would like a button I can click that will only select the countries for which Microsoft already accounts for any taxes.
+288,Support file transfer such as PDF files
+289,A bevy of restrictions can also be heaped on the said user control in order to maintain performance and not sap battery life.
+290,"Let Live tiles be live, please."
+291,when an alarm pops up an option to edit the reminder should be included instead of having to constantly hit snooze or exit the reminder and go into the object itself
+292,I need a posibility to set the keyboard language from code.
+293,"the focus on TextBox1 opens the keyboard with the german layout, the focus on TextBox2 opens the keyboard with a greek layout."
+294, true); I have tested this and it works fine.
+295,"If the keyboard is not installed, nothing changes and the current layout remain."
+296,"Please implement this, it is important for me for a translation application."
+297,"I suggest to create hardware ratings, like ones in Winows 7 (WEI), for the smartphone in order to help both users and developers to match hardware with apps or games. "
+298,I think that this ratings will even enable developers to create different versions of the same app pointing to specific hardware.
+299,It would be nice to be able to use the computer keyboard when using the emulator.
+300,Its a bit frustrating to type with the mouse.
+301,we cant use some important libraries in the background agent like Microsoft.devices.sensors that limite our power to creat a good application
+302,"currently you can only pin an album, but it would be useful if you can pin a single image as a tile.. that way you have easy access to a it."
+303,"school schedule, bus route, or a picture of someone you like..."
+304,The current AdControl crashes any app which uses the silverlight/XNA hybrid mode.
+305,Apparently this has never worked nor communicated to Devs!
+306,"I normally wouldnt say This is unexceptable but given that silverlight/xna hybrid is the new big thing for WP7, this issue needs immediate attention."
+307,...which is useful if you want to add an appointment with the same time/location/notes as a previous one.
+308,"Currently when you press and hold an appointment in the calendar, you have the option to Edit or Delete."
+309,"You either have re-enter all the info, or change the date of the old appointment (but thats not ideal because you lose record of old appointments)"
+310,"local scout should show more than just 20 results, there should be the ability to state the radius from current location and all businesses within that radius should be shown, which could greatly exceed 20. also, if searching a company name for a small business/restaurant, it would be good if that could show within local results."
+311,"often i try to search for a restaurant and there is no result under local, instead i have to find their website and then their postcode."
+312,"this would save me that hastle, and make planning journeys much simpler."
+313,Allow an app to disable text messaging preview.
+314,Allow users to link their app with the me and people hub directly.
+315,"Now that we have API access to contact information it would be useful to immediately be able to click on a contact and open it in a related app, e.g."
+316,"Skype, twitter, etc."
+317,Add a full support of RegionInfo and add possibility to instanciate one with two letter iso code.
+318,"SO, we can use it to dispal country name with user language."
+319,"Add option to hide keyboard: specially when you want to copy a long text.. the keyboard takes around 60% of your LCD space, leaving you with a tiny window to work with."
+320,Exactly As The Title Says.
+321,can you please create a tesco clubcard app
+322,Allow the ability to view SSL Certificates on HTTPS Connections in IE and have the option to install the CA.
+323,I suggests to add some kind of Storage to store GPS POI.
+324,In addition this storage may have integration with contacts to allow user have geographical map of his contacts.
+325,port Internet Explorer 10 to a mobile version (as soon as ie10 is ready) to get all new ie10 features to our mobile phones so we can build better webapps for windows phone.
+326,pls support fixed possitioned elements!!
+327,Id like to have tiles of various colours on my start screen.
+328,"Allow access to raw data such as signal strength imformation to allow creation of indoor location positioning using available wifi, bluetooth or cellular networks when no gps data is available."
+329,It would be nice if there were an app that logged things that happen on your phone: ie.
+330, it would be also great if there were an icon in the status bar that indicates that that are new events/notifications..
+331,Id like the ability for an application to be quick loaded from the right-hand corder of the lock keypad.
+332,"If thats not possible, allow a button to be overriden and pressed during the locked screen process."
+333,"Also, I want to be able to set the % left of power for when the batterysaver kicks in."
+334,The default setting is way too late--Id prefer 50% or more remaining before turning on.
+335,Itd be very convenient for developers without actual devices to test their apps for the certification requirements if everything could actually be tested with the emulator.
+336,Please upgrade the YouTube App by Microsoft Corp. with Metro UI instead directing to a mobile site.
+337,Expose the SongCollection class so we can add and remove song objects from custome song collections.
+338,Allow the BackgorundAudioAgent to utilise the XNA framework so that the devices song library can be played and manipulated from the background.
+339,You would also need to provide a conversion mechanism to convert a Song to an AudioTrack - as is the default file type for the BAP.
+340,Relax the restrictions around application running under a locked screen and/or in the background.
+341,Unless of course we go with a predetermined SongCollection such as SongCollection limitedPlaylist =_?_ more
+342,We need the ability to build apps that are capable of video editing for WP!
+343,"Please DevGroup make this APIs should enable developers to build apps that include the ability to do video trimming, editing, and saving to the video library."
+344,This is needed to build VoIP application.
+345,Playing audio stream in loudspeaker is uncomfortable for users.
+346,"sir, i have samsung omnia w. its running latest update."
+347,"when i charged my phone, then the key press becomes laggy and hard"
+348,Allow applications to define custom shaders in HLSL.
+349,This will allow sophisticated game graphics and real-time image processing.
+350,Also allow access to MP4 encoder library (hardware accelerated) so apps can generate their own videos.
+351,"This should also allow apps to read existing videos, modify frames and write them back."
+352,for gps tracking apps
+353,"There is an Android app which displays all local wifi connections, with their channel number, strength and, of course, name."
+354,WPF7 should have one like this too!
+355,"Currently, I can detect and control what the embedded Zune player is currently playing."
+356,The same cant be done with 3rd party apps implementing background audio streaming like soundtracker etc.
+357,"Hello, thank you for this site."
+358,I was very happy to be able to scan barcodes from the search button and I would like to use this in my application.
+359,The design guidelines should be the law.
+360,"Dont allow ugly interfaces, be stricter on things like navigation, general look and feel, even animation."
+361,"Give developers good explanation what they do wrong, and enforce good design."
+362,"If something is unresponsive, it should not be allowed unless there is a clear and good reason for it."
+363,"Apps should take no longer than 2-3 seconds to start, and need to explain why they would take longer."
+364,Make the marketplace of the highest quality out there!
+365,"Support for WEBGL like the rest of the world - Microsoft have done this too many times - we as MS developers are starting to look stupid 5 years behind on the mobile market - Ballmer iPads are just under powered PCs, Gates the internet is just a fad enough admit you are wrong early rather than late its much easier that way."
+366,The biggest problem I almost exclusively run into when working on WP7 apps is the layout performance of Silverlight.
+367,Its takes quite some effort to work around that problem.
+368,And according to web searches about this problem I felt that Im not a lone with this.
+369,Itd be great if you would work on a solution to improve the situation.
+370,too often we come across a word in an app we might not know or we just want to confirm the meaning of it we colud look it up right where u r without the need to exit n go in to another app.
+371,with this mod we can enjoy the platform more the than ever before is to make in the landscape like the upcoming windows 8 or like the original tile home screen from up to down or down to up
+372,An address bar should be added to Calendar items to give the location of your appointment/meeting.
+373,This address should be visible on the Bing maps showing you the location of your calendar item.
+374,"Vice versa, you should be able to schedule via the Bing maps, adding a location on the maps and linking it to the Calendar."
+375,Return back a multi-task support (may be optional?) will significal improve advanced users experience.
+376,"In current situation its almost impossible to create some kind of applications, such as different trackers, survilence etc"
+377,A color picker control just like the one in the phones settings would be really useful for apps which want to offer the user a choice of colors.
+378,"I know I can code one, but it should be one of the standard controls."
+379,The current IE mobile browser doesnt support keyup correctly.
+380,Id like to show Youtube videos in my app.
+381,"I would like to have control over the size, positioning and playback of a video."
+382,"there should be an option to change the working of these buttons to double click, so that a slight"
+383,"Allow for video camera control, start and stop recording from the touch screen instead of just the camera button."
+384,A demo or prototype category like it exists on Android would solve this issue.
+385,"As of now the number of contacts that can be added to a group is restricted to 20, please remove the cap."
+386,Already music streaming is supported but only for single songs.
+387,wouldt it be great to add albums to SkyDrive and stream them directly from there.
+388,Prefferably the albums would be integrated in the music & videos hub similarly to jow SkyDrive pictures are integrated in pictures hub
+389,All notifications should exist in a pull down shade in iOS/Android style.
+390,The pull down shade should take on the color theme you have choosen for your phone.
+391,"Notifications should exist within the shade as black tiles and will illustrate the notification type and a short phrase from the email, sms text, facebook/twitter mention, etc."
+392,have a background agent enable all the time to execute an application event not execute them periodically
+393,"Ability to add a custom buttons to system call app, like in screenshots http://bit.ly/incomingScreen http://bit.ly/incallScreen click on button will launch some callback which will access to: 1."
+394,Access to call voice stream in/out 2.
+395,"Access to call controls, can initiate a new call, end exists, etc, all features provided by standard buttons on call page"
+396,"currenty when you hit the Back button from the Folders (in the Mail app), it takes you back to Homescreen."
+397,Please fix this so that it goes back to Inbox (and not exit the app!)
+398,"in addition to the current Alphabetical view, add Sorting options like: Sort by last installed, Sort by recently accessed.. Also it would be nice to have a shortcut screen like the fullscreen blue alphabet tiles, but with dates: 1 day ago, 1 week ago, 2 weeks ago..."
+399,"Doing something like the actual WebBrowserTask, but with Uri pointing to file in IsolatedStorage"
+400,Add a method to run another app passing params.
+401,there should be a function to costumise the tile depending on mood
+402,"if the homescreens tile automaticaly arranged in recent , most used, favart, and latest updated."
+403,then it would be better
+404,"Let us buy internet, free sms or minutes in our career codes."
+405,Let us call codes *...# I think its one of the most important things here.
+406,"Support for word wrap or something would let us give more meaningful titles to our apps, with less app title duplications."
+407,The ability to broadcast and bind sockets to a port would be handy for making local client <=> server applications where you dont need to specify the server IP.
+408,We want a clean and simple interface which WORKS.
+409,"I, for example, wrote four applications in about two days. "
+410,Getting them all published took me over three months.
+411,Its just not right.
+412,The process (particularly for someone under the age of 18) of getting a Dreamspark account (particularly now that youve messed up that website) and an App Hub account is absolutely awful._?_ more
+413,windows phone dev is powerless without low level api to access drivers or add features to phone
+414,I have developed an app which plays audio using the BackgroundAudioPlayer.
+415,"If I am listening to audio over Bluetooth and I pause the audio, if the Bluetooth device disconnects, the audio resumes playing."
+416,"I run continous background processing in my app (frequency analysis of the mic, if anyone cares)."
+417,Id like to control the priority of this background thread to make the user experience better.
+418,"We note that microsoft bought Skype, so we need an app that includes Facebook chat, Skype chat, video call and normal calling."
+419,Enterprise feature
+420,calendar functionality does not allow for specifying end date for meeting or appointment.
+421,Bring back reccurrence from wm 6.5 where you could create complex meeting schedules
+422,Then i can write an App to simulate a Keyboard or a mouse and dont need software on PC.
+423,"In SDK give an UI explorer view for Isolated Storage to download, upload isolated storage files from device to desktop."
+424,This will help in testing out and debugging applications which use Isolated storage significantly.
+425,"it is not possible to send an email with an attachement, i.e."
+426,when applying for a job.
+427,"A faster way to switch between vibration on and off than having to open settings, ringtones+sounds."
+428,It would be nice with a switcher on the volume control like the button ring/silent.
+429,"Android gives you the capability to zee how much storage a particular app uses, we could really do with this. "
+430,when ever i make a call my phones screen goes dark even if im not puting it on my ears.
+431,Ive read alot of concerns regarding this problem.
+432,why shouldnt I as user be able to see reviews made by people from other countries??
+433,"Here in Denmark there arent that many wp users yet, so a lot of apps will show up in the marketplace without any reviews, -even though you can see in apptracker that there exist some reviews..."
+434,to sell phones with qwerty sliding like HTC 7 Pro Arrive while OS is not providing landscape for all apps is something between ridicolous and unfair.
+435,When you enter a wrong word in the keyboard dictionary (e.g .while typing in word) 
+436,the only way to remove it is to clear the full dictionary (by using keyboard / typing settings/ reset suggestions) 
+437,We need a way to select the word(s) we want to delete
+438,Control to send desired picture to native pinch to zoom controller.
+439,One line of code to enable native picture viewer with pinch-to-zoom.
+440,Instead of having to tap the screen you should have the choice of locking it at the top of the screen.
+441,"Tuenti is a social network as Facebook (in Spanish or English or Catalan), it would be very useful for spanish people or south americans or people who have signed up on it, to have it (integrated) into the people hub."
+442,"I have a lot spanish friends who have hesitated to buy a Windows phone (and finally didnt buy it) because their favourite social network wasnt neither on the marketplace, neither on the people hub"
+443,android has the pull down notification area well we should have a live tile where all notifications come in so if ur using an app n its not pin to ur start screen u can still know when u have a notification.
+444,"possibility of viewer and writter .rar files, and native support .rar would good job"
+445,"The built-in support for some DPWS devices would be nice, especially printing to WSD printers (or capturing images from WSD scanners) would be a significant feature."
+446,Implementing such protocol is not impossible and printing from applications would be welcome not only by developers but by end users as well - once available in Office applications etc.
+447,"If phone is lost allow remotely setting custom message on the lock screen, i.e. contact information."
+448,As for now the PictureDecoder can only decode JPG and run on the UI thread.
+449,I am especially thinking about tile generation on background agents : Id like to have an enriched PictureDecoder able to run on any thread and decode PNG as well.
+450,"extended ability to highlight text or links within apps such as Facebook and Twitter for copy paste, individual text/word highlight of a text bubble with the WP7 txts."
+451,"improoved text edit cursor positioning, when highlighting text close to the top of the screeb or too far down, the scrolling plays up anf makes it awkward to get it right."
+452,wifi data transfer wp7 to wp7
+453,The ability for applications to follow the data connection of the device (especially Edge/3G etc.)
+454,"if they run as background tasks with live tiles, as most carriers provide limited amount of connection"
+455,We can able to call Managed code functionality in silver light 3.
+456,But in windows Phone for silverlight dosnt provide the dll System Windows Browser. 
+457,Better Multitasking with the ability to have background applications on.
+458,Example I am playing a game and i pause and want to play later.
+459,"Then i want to use my phone as usual, go in to other apps and that kind of stuff."
+460,"Then later when i want to continue playing from where I paused I hold the back button and i see that game is open in the background, not only the 6 latest apps."
+461,"It would be really cool if developers could get api access to Xbox Live Gamertags, that way they dont have to make users create a new account just to play multiplayer games."
+462,It would also help a lot for leaderboards too.
+463,"If you look at all of the most popular programs in any field (Photoshop, Office, Chrome, etc..) one thing is always constant and that is 3rd party extensability. "
+464,Bring this to Windows phone to all native apps.
+465,"Instead of making a new camera app, allow me to extend the native one."
+466,"Bring this to all of the native apps including office, the dialer, people hub, etc..."
+467,TAB is usefull to jump from textbox to another e.g.
+468,in the registration forms using only the keyboard.
+469,Arrows keys to move easly throught the text!
+470,When you have more than 5 Groups you need to scroll down in case you want to find a single Contact.
+471,The [A-Z]-Button should open the Letter-grid to jump to the desired point in the list.
+472,i would like it to work just like the walgreens app
+473,The mango way to switch between tab is slow as .... so please implement a quicker way to do that or roll back to the previous IEs chrome.
+474,greater permission to manage the music.
+475,help define the current position of the current music with the mediaplayer Zune seek position.
+476,to obtain another possibilities to move in the music as the default button fast forward.
+477,"In a windows desktop, ALT+TAB is used to switch quickly between apps."
+478,We need something just as fast in WP7.
+479,"One suggestion is: Double tap home icon quickly, to see the list of open apps - as shown currently."
+480,This is faster than holding down the Back key for some time.
+481,zune payer should support custome codec plugin so one can play any format.
+482,Please expand the MessageBoxButton option in Silverlight to include a Yes/No or Yes/No/Cancel option.
+483,It would be nice to have a modal control that is standard between applications with additional user choices available.
+484,the mutitasking area should have every app that you have opened in it.
+485,The last five should be frozen and any more than that should have to restarted.
+486,To close an app the user should be able to use her/his finger to flick it upwards WebOS style.
+487,"In addition, the user should be able to take a screenshot within the multitasking area by using a finger gesture to drag the app towarda the bottom of the screen, a screen capture icon should appear and the outer edges of the icon should fill with green and onve the edges are_?_ more"
+488,It will be very useful if you can asign a static IP
+489,IPv6 begins to be widely supported.
+490,It was available in WM6.5 (and older) so it would be great to see this included in WP7 (and later)
+491,allow sync of ms exchange notes
+492,"because push notifications can easily go unnoticeable, there should be a history in the me tile that will also tell you if you missed something."
+493,Tile counts are nice but I dont have every app pinned nor do I want it that way.
+494,Just a history for one days notifications would be enough.
+495,"It would be really nice to have a Share task that I could pass a stream to, in order to share an image."
+496,This task could bring up the same interface when I share an photo from my pictures library.
+497,It would make it simple to share photos to facebook and twitter if the user already has it setup.
+498,It would also make it possible to finally share photos via sms and email programmatically.
+499,"Examples: Google should be able to add Google+ support to me, people hubs."
+500,Amazon should be able to integrate their cloud music seamlessly with music+video hub.
+501,Flickr should be able to integrate with picture hub.
+502,When searching in the market you should be able to open the app if already installed.
+503,"Please provide APIs for call forwarding and other call management functions(hold/unhold,swap,conference,etc)"
+504,"As a user, I would like to be able to select songs that I have put on the device (from my library) to wake up to."
+505,"As a developer, I can only allow the user to choose from songs that I included with the app."
+506,The main work-around Ive seen in the various alarm clock apps is to force the user to ke the app open over night which is not particularly awesome for battery life.
+507,Add an option to customize the size of Pictures uploaded to Skydrive or send via mail.
+508,"Right now, you can start apps by holding down the Windows button and saying start appname."
+509,"It would be great if you could start an app while adding some instructions, for example: Facebook, show me messages Office, create new Word document Prime TV, mark House Season 1 Episode 4 as watched"
+510,"when holding my phone in one hand, the palm of my hand just below my thumb come very close to the search button and a stretch to far can often send me off to the search function while i am texting or writing an email."
+511,is there any possibilty that these 3 controls can somehow be made less sensitive or become a more mechanical click?
+512,"The touchmove event is called only once, when I move my finger across the screen."
+513,So I cant create complex HTML pages with a fixed header and a scrollable content.
+514,I will move the content per javascript but I can not because the touchmove event is not triggered.
+515,Please implement the whole TouchApi in the Internet Explorer and the WebBrowser Control.
+516,This is VERY IMPORTANT for mobile websites because iPhone and Android support this.
+517,Emails are non editable while
+518,Enable picture password as in Windows 8.
+519,deleting multiple for sms as email services
+520,I am thinking about a SDK to allow me to create an account app.
+521,"So like google, facebook, linkedin I want to create contacts, calendar and access to message hub (also writing messages with my account)."
+522,Marketplace upload of this kind should be more restricted to avoid problems.
+523,"When Im reading a web page or other document, I would find it incredibly useful to be able to jump to the jump of the document without endless swiping."
+524,if more elements one day.
+525,We cant see the other:(
+526,it is slightly fustrating when one or two screenshots take longer to load and you cannot skip them while swiping through the images.
+527,Like windows mobile 6.5 and older version.
+528,"Currently, you can only have the review page from the app list with the contextual menu."
+529,"It will be pleasant to go the main page of the app in the marketplace to see the general pr??sentation, screenshots & the other users reviews"
+530,add capability to enter manual parametets for visual voicemail
+531,currently in the all applications view tge jumplist appears only when there are more than 40 apps.
+532,i have about 30 apps and it is already difficult to find an app ...i think the jumplist shuld be always available.
+533,I believe scrolling should be improved.
+534,"As sometimes when users are viewing a long document, they sometimes might want to skip to the middle/lower section."
+535,But scrolling seems to take a little long..
+536,"Thus, this idea is actually for the developers to make scrolling faster after each subsequent scroll, like every 5 scrolls the scrolling speed will increase.."
+537,"ensure that we can buy clips, movies and videos directly to WP7 without necessarily going through a PC"
+538,Swipe from the top down with two fingers and flick through the last closed app as seen in Windows 8.
+539,"For instance, email and messaging notifications could be silenced at night, whilst call ringtones would function as normal."
+540,by benchmarking a developer a good developer work.
+541,it will encourage a developer to design better apps and it makes very easy for customers to choose the right apps ibstead of selectibg some poorly designed apps and wasting the time..
+542,I see many developers can be benefited from text2speech api.
+543,It can also bring in whole range of new apps for windows phone.
+544,"In Android For C2DM , Google is providing free account and restrict number of messages per day."
+545,Supporting Windows Authentication could be very usefull for example writing app that interacts with Microsoft Dynamics CRM
+546,currently only a defined set of extensions are supported for files to upload to SkyDrive using the new live API which limit really the usage of the API.
+547,For example my app can export .CSV files and I had to rename their extensions to .TXT to be able to upload them to SkyDrive using the live API.
+548,The language should be a search critreria for apps and games.
+549,The non-english marketplaces are filled with apps that support only english and it is hard to find apps in my native language.
+550,If its MS Windows Phone then make it as a part of the network.
+551,Will see all shared resources.
+552,One shared folder can be set on phone device.
+553,Easy to access and transfer on both sides PC-Phone.
+554,A business feature that would be really nice to have support for it the ability to tie into a VoIP network for voip phone calls... the most common architecture is the SIP (Session Initiation Protocol).
+555,So I would like the ability to configure a SIP client that ties into our VoIP PBX and phone system.. so my WP7 would basically become my desk phone (extension).
+556,The only way this would really work well is if it ran in the background like the phones native phone functionality.
+557,If there is an app developer the a customer lukes id be good to see everything that they have made.
+558,"Full (or almost) Entity Framework support, including graphic class designer and interop with regular EF assemblies, making it easy for developers to reuse model and persistence classes in the phone, without the need to redo all the work in Linq and some nasty tricks."
+559,It would be nice to have the Deployment ability on my home PC able to be done wirelessly.
+560,"This includes deploying in Visual Studio while developing, and using the Application Deployment Tool that is installed w/ the dev tools."
+561,"For me, the benefit would be that when I dont have a microUSB cable handy, I can still dev and deploy to my phone to try something out, or deploy my friends XAP to my phone w/o having to go find a cable first."
+562,"This could be implemented via WiFi, of course (since Zune does wireless Sync already), or even Bluetooth once we get Bluetooth data transfer ability."
+563,Wp7.5 lacks USB audio functionality with Microsoft Sync in cars.
+564,Bluetooth playing audio is very limited.
+565,Requesting MTP and mass storage functionality since competitors like iPhone are able to do all this already with Sync.
+566,"In IsolatedStorage ,image file can save to local MediaLibrary,why not record wave file can not?"
+567,too slow and too little possibilities
+568,I took a while until I realized that I forgot {StaticResource} within the Style attribute...
+569,Its very hard to create application supporting multiple languages.
+570,"Give functionalities like Resource manager, as given by IDE of other platforms."
+571,Managing resources and folder structure for them should be made easier.
+572,make an EQ for the mp3 player...at the moment the volume its really low
+573,Curently 20 persons max.
+574,Please enable pinning of the Wi-Fi settings on Start page.
+575,SplashScreenImageLight and SplashScreenImageDark would be great!
+576,"After that, it would be great to have the option to select an image from IsolatedStorage so that my app can update its splash screen image as needed."
+577,Make it so that a meteo style app would only need to adapt its UI to run on Windows phone.
+578,It would also be nice to have to deploy only one package to the marketplace but only the needed bits would be tranfered.
+579,Add movies and books would be an excellent addition for the system !
+580,"Enable Speech Command to play songs selection by saying play song name, play artist, play album."
+581,I believe the single most important thing for Windows Phone to be successful is that users in all countries should have the same services available.
+582,Now when the marketplace has become available it would be great if users in other countries than US could migrate their accounts to the country they really live in.
+583,Allow user to set different accent colors for different tiles.
+584,"we should have small tiles instead of a long list of apps of which you downloaded, like android and ios."
+585,An app should be able to publish a service that is disvoerable and consumable by other apps.
+586,"For example, if I have an app that can process images, I want other apps to be able to dicover my app and submit photos for me to process."
+587,I would like access to a stream for music played via the media library.
+588,"i wish the functionality to access and synchronize the public folder from exchange, e.g. the public contacts or the calendar."
+589,This would enable live traffic aware apps.
+590,Please try other formatting like bold italics shadow to distinguish titles/subtitles from content.
+591,Since computers were invented to save time I suggest we be allowed to upload them all in one zip file - using numbering for the file names and the portal could place them in the right order.
+592,Allow rearranging if the user wants to change them!
+593,Add SIMD instructions for better use of ARM NEON instructions for math and games.
+594,Also using a hot swapping code generator (optimized machine code like HotSpot in Java does) would also be very helpful to mitigate slow C# code.
+595,Microsoft should seriously look into getting rid of Symantec for all these payment stuff.
+596,I would be extremely useful in a variety of app types to be notified upon call started and ended events at least be able to check whether or not the device is being used for a phonecall.
+597,I would like to see informatin about the certification process in the dev center app.
+598,It would be nice to see at a glance if an app is featured in one of the markets .
+599,Also I would be fun to have a record showing the featured markets and dates.
+600,Make ProgressRing control available for Windows Phone just like Win8.
+601,It would be great if the OS moved on to the second third etc NFC record and tried to trigger off of them until there was a success.
+602,We need for our applications on each of the mobile platforms to be able to read data on a separate NDEF records contained in an NDEF message.
+603,Provide Process Class/APIs (like that for regular Windows) to develop lower level operations like Task Manager in Windows
+604,Please add the possibility the set price (& market distribution) and trial mode existence individually for the XAPs.
+605,Add the ability to do memory profiling on background agent (periodic) as they are limited on memory and sometimes its too hard to catch memory leaks.
+606,Either one has to use .NET to access a library or Microsoft advises to do a .NET app with native code in a WinRT component.
+607,Dont limit us artifically just because you dont like native developers.
+608,These page templates should be updated to use the medium-sized semibold font by default for the title text.
+609,Task-based operations would make the code much more clean and readable.
+610,Add a boolean to CameraCaptureTask to indicate whether you want it to save the picture taken to be saved to the camera roll.
+611,Please expose ETW logging namespaces like System.Diagnostics.Eventing so that it is possible to log events from the windows 8 app.
+612,Currently the only way to take advantage of the direct manipulation in a XAML Windows store app is by using a ScrollViewer.
+613,Instead of having a top charts style listing where the most popular apps are displayed to every phone anywhere create a new form of distribution where the results are randomized every time a user looks at the marketplace.
+614,Highly rated apps should appear near the top more and they should appear less and less frequently and the rating of the app dwindles.
+615,It seems to me that all good apps/games should have a chance at decent exposure in the top charts and waiting to be featured just isnt worth it.
+616,Maybe you should think about some way to reward those users who take their time to actually try an app and review it.
+617,It would be great to be able to use the WP8 emulator (and Surface emulator for that matter) for mobility demonstrations i.e. when I deliver a Dynamics CRM demo I often (nearly always) want to include mobility scenarios on the same screen as the rest of the demo.
+618,It will even allow seamless migration to new hardware.
+619,I would like to ask Microsoft to give us a tool(option in emulator) with which we can take screenshots once in one emulator and it will produce screenshots in all resolutions and all languages supported by our app.
+620,You have to run one emulator take screenshots close it and run another and so on.
+621,SharpDX proves that those key technologies can be made available to CSharp: I would suggest to either support the project or to provide your own interface.
+622,It would be more natural to allow the physical search key to activate the search function on the active application rather than loading Bing which is rarely the goal.
+623,Associate bound objects to data templates implicitly by type instead of explicitly by template name.
+624,For more information see Data Binding.
+625,On WP8 add optional support to hook these hardware keys press events for the lens (plug-in) features...hardware keys should include vol+ vol- stage 1 (light press) camera shutter stage 2 (deep press) camera shutter.
+626,"When an application has problems or when a problem is detected in advance by the developer until the publication of the correction version the client is without knowing what is happening, it would be possible for Microsoft to implement a communications resource developer for customers who have installed its application?"
+627,Read/write accsess to email sync settings could enable applications to create custom sync profiles (based on week-days time position etc).
+628,It s impossible to connect easily to ftp network I suggest to include it in the future sdk.
+629,I hope Microsoft can open Asia voice function fastest
+630,We need support special multitasking tasks like VOIP and IM!
+631,Please add the possibility to add your own spell check service or provide the data if a system wide one existed.
+632,If Microsoft created some incentives like a free device (Blackberry did this) and a free year of membership (Amazon did this) it could drive a lot of developers to the platform which is crucial to the platform taking off.
+633,I would be a really nice gesture to have an option wich can put everything to the other side so when left handed people scroll they could also see the content.
+634,It would be great to be able to have the emulator location data use the NMEA file format - either via file import/export or using the files directly as a feed.
+635,currently you can only pin an album but it would be useful if you can pin a single image as a tile.. that way you have easy access to a it.
+636,why shouldnt I as user be able to see reviews made by people from other countries?
+637,For apps that synchronize or connect to networks sporadically it would be handy to have an easy way to detect if you are on a cheap connection so if WiFi is connected or the device is connected to the web via USB.
+638,So suggestion is to add properties like “IsWiFiConnected” and “IsCableConnected” to DeviceNetworkInformation that execute fast.
+639,Give developers good explanation what they do wrong and enforce good design.
+640,Apps should take no longer than 2-3 seconds to start and need to explain why they would take longer.
+641,Please provide APIs for call forwarding and other call management functions(hold/unholdswapconferenceetc)
+642,As a user I would like to be able to select songs that I have put on the device (from my library) to wake up to.
+643,Thus this idea is actually for the developers to make scrolling faster after each subsequent scroll like every 5 scrolls the scrolling speed will increase..
+644,in addition the user should be able to take a scree shot within the multitasking area by using a finger gesture to drag the app towarda the bottom of the screen a screen capture icon should appear and the outer edges of the icon should fill with green and onve the edges are completly green a photograph noise will occur allow with a sudden screen flare to tell the user the screen shot has been taken and saved in the saved images folder
+645,We need the ability for developers to add relevant tags to their app descriptions we then need the ability to search for apps with those tags tags should also be verified during app submission to ensure theyre relevant
+646,It will be pleasant to go the main page of the app in the marketplace to see the general présentation screenshots & the other users reviews
+647,Allow user to send Video Audio and more pictures in an MMS now only one pic is supported
+648,Allow access to raw data such as signal strength imformation to allow creation of indoor location positioning using available wifi bluetooth or cellular networks when no gps data is available.
+649,Since windows phones are selling hot in countries like India browser should start displaying Indian language characters.
+650,And a smart dialer can then be a full alternative to the built-in phone app since the app also can have a quick-button for goto the regular phone app whenever the user wants to do that.
+651,As an alternative to giving write-access to calendar (which can be hard to get a go on for security reasons) let us at least open an appointment directly in the calendar app.
+652,Signal strength directly impacts video playback experience.
+653,But reusing the operating system component saves us development effort and ensures it looks as expected as the operating system evolves.
+654,You can ask for a request but its not clear what and when something will happen.
+655,With windows u have the UI app and the service app hosted locally  may be the IIS express used during local debug can be used.
+656,This new approach of developing applicaitons simlifies the UI development  where developer get rid of learning other technologies like java scriptangularjquerystyle sheets and all those n number of scripts.
+657,Typical problem here would be deployment(Installationupdate) of the UI application to client machine But if we simplify this process of deployment like having the rules that the UI app should be only one obfuscated executable file It should not depend on reference… more
+658,Bonus points for it to be xaml standard compliant
+659,In addition this will allow a greater prominence of XAML Standard and greater acceptance in the market and in the media.
+660,Dont require developers to use the background task builder and background triggers just to activate an app in the background.
+661,A control that offers hour minute & second selection would be helpful.
+662,Add to CollectionViewSource function pointer to get the group objects not just PropertyPath
+663,A DatePickerFlyout whose Date is two-way bound will update target-to-source but not source-to-target.
+664,When functions and FallbackValue is used in an x:bind at same time the parameter must match exactly.
+665,Playback seamlessly between one media and another
+666,A control for visualizing and editing networks graphs and flow-charts
+667,Leave them alone!)
+668,Does not make sense that an Idle task would be suspended for not being busy enough.
+669,Making the task more busy (to work around idle tasks being suspended) would mean more battery usage kind of the opposite of what you want.
+670,Microsoft wants us to build more connected app with Project Rome API.
+671,It also annoys during development because now my solution has to have 4 target platforms while it could just have one.
+672,What I want is to drag and drop a file then be able to get its full path and file name as stored on the disk and access it using standard C++ IO file access functions such as fopen fread etc.
+673,I dont want to use XAML because: it looks complicated it looks like it can reduce performance Im making 3D heavy DirectX based applications that need full performance.
+674,For example I drag and drop a BMP image my app compresses it and saves as PNG image automatically in the same folder with the same name.
+675,Dual screen + Google Card Glass fulfill the function and make the application very attractive.
+676,We wanna to commuicate other App in Desktop.
+677,not only other UWP but WPF application.
+678,Ive done the same tests in UWP mode using DXGI_SWAP_EFFECT_FLIP_DISCARD and results were the same slow as in Win32/WinAPI.
+679,From what I see ASTC would be great for that have good quality but also small size looks like it has lot of format options so I could choose what I want.
+680,Im pretty sure the new TreeView is not Fall Creators Update dependent.
+681,Map became unusable after phone 10.0.15063 update.
+682,ResolveCompleted event comes after ten seconds.
+683,d) Lines on traffic layer are blurred jagged and looking bad.
+684,While nice looking UWP UI is not well suited for creating UI-heavy classic applications (think VisualStudio/AutoCAD/Blender/LOBs with a lot of data) that you would never want to use on tablet/phone.
+685,If our - ISV - UWP App also have this feature we can spent more time to trying the new feature and Insider customer and testers can use it and we could got feedbacks.
+686,Because if you currently assign a Binding a VisualState setter as below it will resolve the value of the binding and assign that to the target while you would like to assign the binding itself.
+687,This will allow designs and implementations to change bindings depending on states and even help some states where some bindings are not required to be temporarily set to x:Null for performance (handy in complex screens).
+688,We can see the entries added in the registry but client cannot access the interfaces.
+689,For example lets say I want to create shorthand for aligning a control inside RelativePanel fully horizontal like AlignHorizontalWithPanel.
+690,Allows desktop apps to incrementally adopt UI innovations and creates a bridge to UWP for app UI.
+691,I tried the converted app using IME.
+692,We want to improve support Google IME.
+693,I thinks its not difficult to do since Cortana for PC supports up to 13 languages as listed on https://support.microsoft.com/en-us/instantanswers/557b5e0e-0eb0-44db-87d6-5e5db6f9c5b0/cortana-s-regions-and-languages
+694,You can verify this with the CameraStreamCorrelation sample.
+695,The following streams are available on the PC:
+696,The following streams are available on the XBOX:
+697,Are there any plans to support skeleton tracking on the XBOX?
+698,It seems such a shame that the new Kinect drivers expose the Kinect via this API and yet the ExposureControl is marked as being not supported for the Kinect.
+699,From the libfreenect2 library it seems entirely possible to tell the Kinect not to do auto-exposure.
+700,I expect that the content set directly (the text) to persist after closing the application.
+701,To me something that may cause a runtime crash (and that the compiler clearly knows to flag) should not a warning but an error.
+702,xbox dev mode companion work ipv6 please...
+703,"Make it really smooth to update code of a UWP app,  like you are already doing with the XAML part the app is automatically reloaded without being shut down and relaunched."
+704,A XAML designer for Visual Studio in Windows 7.
+705,The control would allow for the use of the contact picker but allows for manual entry and deletion of contacts.
+706,To give the user a sense of consistency the file picker remembers the last location that the user navigated to and will generally start at that location.
+707,This is not always the best solution for example pretend you had a UWP app that asked the user to select a picture and a music file.
+708,I am migrating my app from Windows Desktop using Core Audio API to UWP using hopefully AudioGraph.
+709,We are exploring moving forward with UWP but currently there is no way to access the pipeline to add custom shaders and models like we do now in Virtual Earth with Microsoft.MapPoint.Graphics3D.GraphicsEngine3D and Microsoft.MapPoint.Rendering3D.Scene.Step.
+710,Im developing a Java application so interop with C# is kinda tricky while interop Shell32 API or C libraries is pretty easy and straightforward with JNA.
+711,It is very difficult to Create a Custom RichEditBox with all the basic features Like Text Formatting Bullets and numbering Support for Inking Like OneNote and also to support adaptive layout thats too much work for basic Text editing.
+712,Im creating app using face detection.
+713,If we put the MKV in another service or server the video is reproduced but the connection with OneDrive has been lost.
+714,It stops on the way.
+715,Chinese and Italian support have already been asked for.
+716,In some cases an access error may occur at the time of opening a file or it may be opened correctly.
+717,We want a solution.
+718,Something seems to have changed with loggingchannel possibly default manifest code that handles the string message has changed around 15043?
+719,FWIW preview versions of windows post anniversary update were showing the message correctly.
+720,Id like to have implicit DataTemplates in UWP.
+721,Currently i can only input plain text in toast notification <input> since the type does not support password.
+722,Developers need to have good and deep understanding of how UI virtualization works on UWP app
+723,Currently you can use the Pivot or there are 3rd-party vendors providing a TabControl.
+724,Im converting some wpf apps to uwp and Im missing a report control.
+725,Please open up the base classes for inheritance and provide a sample how to create a custom virtualizing panel.
+726,Without this UWP is more or less a toy because any customization requires that the app be deployed completely separately.
+727,This is only relevant for desktop UWP apps.
+728,You can at least provide any of these solutions.
+729,Id use this for my media phone playing Groove 24/7.
+730,The panorama control is still the best control for my app and my users love it.
+731,Updating the app to UWP is not possible without this control.
+732,Currently there is no way to prevent MenuFlyout from closing when user click any of its items.
+733,Im not even sure if it is not a bug because setting args.Cancel in Closing event is not working.
+734,Support I/O transactions on UWP platform as part of Windows Runtime API for file I/O
+735,For example three quick touch strokes to scroll immediately to the top or bottom.
+736,Really long lists and views are boring to scroll even at maximum scroll speed.
+737,Keyboard have Home/End keys to scroll to top/bottom but touch screen doesnt have same capability.
+738,But this library is fairly low-level.
+739,That concept is painfully evident when using Microsofts Edge browser and you want to browse various Favorites menus.
+740,Specifically excellent mouse support means that menus will support all the hover actions that menus currently enjoy in win32 applications.
+741,The current situation requires two mouse clicks to accomplish the same thing as a simple hover should.
+742,I don’t know what the component should look like.
+743,It can happen that sometimes we do need a control to store a list of pages/elements that looks like a Pivot control but with a infinite list of pages/elements.
+744,So I tried to find other ways such as Excel Access or SQL Server Compact Edition.
+745,So application would request secret API keys as needed from system-provided secure storage.
+746,Release appx shouldnt have secret keys inside and keys should be on Windows Store server and those keys would be requested from server on application install.
+747,Another advantage is the developer already have a preview in design mode
+748,The idea would be to have a Try button on every sample.
+749,This button will generate a ready to use Visual Studio project with the current sample.
+750,It seems that animated GIFs disappear when application minimizes / restores.
+751,Allow the user to select items drag them around and resize them.
+752,We currently have a store app that works with our desktop app and it causes a great deal of confusion.
+753,if you need anything from me for any reason I will do what ever I need to do to improve our software for our users.
+754,As developer I want to create custom picker like Date or Time pickers
+755,you cant scroll at that point.
+756,In an XAML page there are some buttons and command bar buttons both of which have access keys set.
+757,I am working on porting an app that could calculate MD5 checksums on a file.
+758,Being an enterprise developer the advent of Big Data I believe the SeaDragon PivotViewer lastest binaries should be ported over to WPF/UWP apps as it is a well needed tool.
+759,Since we are preparing a custom control with the ScrollViewer the look and feel is not nice.
+760,Microsoft is loosing a huge market by not supporting a full net standard.
+761,Evidently the MediaComposition.SaveAsync() API internally uses the StorageApplicationPermissions.FutureAccessLists API which has a limitation of 1000 items.
+762,If you add more than 1000 clips created via MediaClip.CreateFromImageFileAsync() the API will fail with this exception:
+763,An item must be removed before another item is added.
+764,Additional information: The maximum number of items for the access list has been reached.
+765,In case app is installed in SD card and notification uses custom audio file default notification sound is played instead of custom audio file.
+766,In the end developers have to use some workarounds to simulate old behavior.
+767,You can see that even Apps list in W10M simulates old behavior instead of default one.
+768,When using FM radio i have my headphones plugged in.
+769,This would make replying to messages etc.
+770,I know its not possible at the moment specially with all the hardware limitations but if you guys really are working on a surface phone bringing visual studio to it will be so huge.
+771,The problem is the output port names are enumerated by the UWP API as just MIDI and not the name of the port as defined when they were setup.
+772,Reaper and other desktop programs are displaying the proper name.
+773,Including <windows.h> shouldnt generate compile warnings even the extra ones.
+774,That would make all the users happy :)
+775,Hololens lets you render on 2 backbuffers(stereoscopic) but its hard to know if the output is correct because the emulator shows just one frame.
+776,there is a bug in UWP where special characters are interpreted as letters when using multi layered keyboard layout like the german Neo2 layout.
+777,Its also a total annoyance when working with data that require handling of lots of special charecters like JSON and XML data.
+778,Looking forward to the progress youre doing :D
+779,With Project Rome I can discover devices of others connect with them and launch apps or leverage app services once consent has been established.
+780,This feature is implemented in the accessory API which is restricted to only smart watch makers.
+781,This would allow them to know that additional awesome features are there.
+782,The Windows display language of my computer is set to en-US because I am an app developer and most app problems and solutions are written in English.
+783,Such functionality is common to music apps in Google Play Store Apple Store BlackBerry World.
+784,In most cases such apps can be ported to UWP platform and because they are coming from a POSIX/Linux the network API is BSD sockets as well as some complex network communication libraries can be used to support this or that network-oriented functionality.
+785,Currently the network data flow is boroken once app goes into background or screen is switched off.
+786,Can in-app purchases made available to Windows Store for Business?
+787,These channels are not accessible with the current AudioGraph APIs.
+788,It has support for Linux and I think Windows should gain support too.
+789,And the dac folder is empty.
+790,Hello Dev Team!
+791,In the app Settings you can disabled the swipe-open or make the swipe-in detection area wider if the users phone makes getting close to the screen edge difficult.
+792,So there should be a way to either swap out style XAML RsourceDictionary files and/or pieces of… more
+793,Any feedback is appreciated Thanks John.
+794,XAML apps can detect it but there is no equivalent WinRT API for JS apps.
+795,My HTML perfectly fine in Windows 10 but not in Windows 10 Mobile.
+796,As an information this is the xaml control that contain the complex attribute/property :
+797,In my opinion this feature is really fundamental much more important to me than many new features that appears regularly.
+798,According to the documentation the proper way to handle input in a store app is to create a CoreIndependentInputSource from another thread by calling swapChainPanel.CreateCoreIndependentInputSource().
+799,Devices with touch input are the ones that suffer the most from this bug since they come with weak GPUs.
+800,Devs have to chose either low responsiveness or low performance.
+801,The application will exit..
+802,Having an API allowing getting the color of the pixels under a pointer (eventually throttled/async and only when having pointer capture on) would increase the expressiveness of the creation tools in UWP applications.
+803,I am manually having to keep a list of these when it would be easily managed in the Dashboard if the status properly reflected this.
+804,The current status only seems to show ‘In Progress’ if the app has never been put in the store before.
+805,Meanwhile the perf counters are difficult to associate with a specific application requiring the request queue be named (which HttpListener does not do) and netsh called to find URL group IDs to use for correlation.
+806,I did a research on AudioFrameOutputNode It is strange that it often generate AudioFrame without any audio data the AudioFrames Duration property is 0 miliseconds but the RelativeTime property is not.
+807,For example a user send us a feedback to ask a Windows 8.1 RT version of our app but now we are focused on Windows 10 so we need to be clear that we read his feedback but its not on our roadmap.
+808,After that the Age Rating questionnaires stop submitting when you press submit.
+809,An example of this An application as a node in an internal media network would be something along the lines of AudioBus for iOS.
+810,Extrapolate the above capabilities to Audio allowing on-the-fly add/remove interconnectable/reroutable audio nodes (virtual interface devices) to which Apps/Devices would attach to instead of attaching only to hardware interfaces.
+811,Same for video not only making (desktop/window) screen capture a breeze and naturally handle by the OS it would also allow the creation of virtual screens (resource permitting of course for desktop expansion/mirroring) outputting them to a video input/recording apps USB3 or even to a DLNA receiver screens.
+812,This would allow the user through the OS to detach an App media output from its default interface (audio/midi card screen/window) and re-attach it to another App (or device) input.
+813,What if we will exchange apps reviews?
+814,I like the ease of the app and recommend this app to all.
+815,I have largely ignored this is the past because it was minimal but someone is finding good success with it so theyre hammering everyone.
+816,Personally Im getting 2-3 a day from different source email addresses.
+817,Removing the support email from the webpage would not hinder the user as they can see it via the Windows Store app.
+818,1) A user is at lunch viewing their sensitive documents.
+819,They switch to their Email app - our application detects active state change and auto logs out.
+820,They finish their food and leave but forget their phone on the table.
+821,*At this point a perpetrator is able to take the phone open the recent apps section and now can see whatever our client was looking at.
+822,2) User is at their desktop observing files gets up and makes the app inactive (minimizes or moves to back).
+823,We begin a timer to auto log out.
+824,* A perpetrator is able to hover over the taskbar item and see the last screen drawn whether or not the user logged out.
+825,Sorry if I sound bitter but I must say its very frustrating developing for w10 mobile at the moment even if the you get good reviews the chance of them being displayed in the store is very slim due to the version fragmentation.
+826,As I understand it insider reviews that arent on the slow ring are removed even worse theyre deleted permanently from even the Developer Dashboard.
+827,People took time to write thoughtful reviews and theyre simply deleted.
+828,Ive started to continually download review reports to just have a record of them
+829,Ive had over fifty 4+ star reviews simply disappear never to be seen again.
+830,I see the point that insiders shouldnt bring down the ratings of the app if the OS is to blame.... but with so few people rating anyway and most people being on the fast insider ring it makes it extremely hard to get reviews.
+831,Old Windows Phone 8.1 retain their status of being the most highly rated just because of this.
+832,Whats the point of having a rule if that means theres too few reviews and no point for most people to post reviews at all?
+833,Im not quite sure what a good solution is you cold allow only 3+ reviews for fast insiders but I guess that might skew reviews too positively.
+834,Or why not let the text review stand even if the rating doesnt count?
+835,As it is getting an accurately impressions of apps through reviews doesnt seem feasible.
+836,The caller does not have the required permission to perform this operation.
+837,IoT introduced the Windows.System.ProcessLauncher for starting arbitrary programs (like Process.Start in .NET).
+838,Note when executed DNS Client service crashes
+839,Comment out the TextAttributes line and note service does not crash
+840,I have bound the IsPaneOpen of my SplitView to a property in my ViewModel.
+841,This works nicely except when the SplitView is in Overlay mode and the user presses a hardware back button on the phone.
+842,In this case the SplitViewPane gets closed as expected but it does that by seemingly overwriting the Binding on IsPaneOpen and instead setting it directly to the value false.
+843,The effect is that the panel can never be opened again as my code will do this by setting the VM property to true but the binding was already lost.
+844,In practical terms you are forced to make a UI technology diversion to implement new functionality.
+845,Xaml doesnt look a tempting option because not useful for mobile or web and needed controls usually implemented in javascript first
+846,At a application architectural level porting WinForms to HTML/JS favours an entirely new application which follows an understood/accepted architectural pattern then re-implement old functionality.
+847,So imagine the app in question was one written by an ex-employee in 2008 in VB.Net with deep domain-knowledge targeting users with similar domain knowledge for a specialist task with no design documentation beyond a description of a manual process it replaced.
+848,Well this is the norm... and for all its wrongs its there.
+849,Never had budget assigned in the first place and its used by 10 people who are all busy.
+850,Given the architectural barrier is the killler I dont believe there is any feature of GDI+ which cannot be expressed in HTML.
+851,the UI may not adhere to good gui design principals its performance may suck but it probably wont.
+852,But its users can start it and it will look and act the same as it did before arcane controls and all.
+853,The architecture of a Modern HTML5 appliication has much more in common with GDI+ and a windows message loop than it does with Xaml.
+854,Things like Redux essentially go out of their way to be like a message loop to avoid race conditions through async operations.
+855,For Microsoft this would I believe solve a massive developer stumbling block even allowing Winforms controls to potentially be integrated in HTML UIs.
+856,So imagine the app in question was one written by an… more
+857,Microsoft finally developed a library able to handle NFC devices.
+858,Unfortunately the library is only able to get the NDEF messages and doesnt give the UID of the card!
+859,Is there a reason why this UID is not saved in the Proximity-Device once the NFC card is read?
+860,But it has no similar property on UWPs api.
+861,You reproduce this on Mobile Build 14393 system.
+862,Currently there is no way to attach debugger to already running process via Attach to process on mobile.
+863,And sometimes bad bugs like deadlocks happens.
+864,And its real pain to investigate them since usually they happen without debugger and on release builds.
+865,Windows 10 Mobile is like back box you cant get full access to.
+866,Frankly speaking Im surprised that it was not there from the very beginning.
+867,All that happens without any real user attendance which makes those triggers useless.
+868,In WM5/6 there was an UNATTENDED power state for that situation and there was a way to detect real user interaction with the device.
+869,Current behavior of SystemTrigger.UserAway and UserPresent is unexpected.
+870,Phone is sleeping with screen turned off
+871,Some event occurs (SMS Incoming Call Toast)
+872,UserNotificationChangedTrigger fired
+873,UserPresent trigger fired
+874,After some short timeout screen goes off
+875,This is my personal favourite: mobile - file open picker - the app suspends but it cannot be debugged.
+876,All sorts of surprises can happen with a complex app.
+877,Before UWP CurrentCulture reflected the Regional Settings format and CurrentUICulture reflected the Display Language.
+878,We shoulnt have to relly on workaround like this one: https://www.pedrolamas.com/2015/11/02/cultureinfo-changes-in-uwp/
+879,It would be a lot like Facebook Messengers chat heads.
+880,So many things could be done with it.
+881,I found that PhoneTriggerType enum includes useful triggers except the trigger when a call is received.
+882,Torch API doesnt work in Lumia with windows phone 8.1 support such as Lumia 830640...
+883,Currently UWP have less readable grayscale font smoothing.
+884,It makes UWP apps look worse than desktop apps on standard DPI screens.
+885,Sometimes Compass.GetDefault() returns null and compass stop working in all apps.
+886,To solve I need to restart the phone.
+887,In the following MSDN Magazine Article it is mentioned that there are some limits for Voice Command Deffiniton files.
+888,I use Windows SAPI quite intensively for an application I have built and many Grammars are easily much bigger than the limits imposed by Cortana.
+889,This makes it a bit tricky to port the recognition engine part of the application away from SAPI and towards Cortana since SAPI provides more powerful capabilities for larger sets of commands.
+890,Unfortunately I am not going to know all uris the cookies are in without tracking every single domain visited (which is what I currently have to do).
+891,I do this so I can clear all Cookies.
+892,An API that would take 5 minutes for someone to write up and save me a lot of coding is
+893,Or secondary to that a DeleteAllCookies() or ClearCookies() API as that is the only reason I need to get all of them and I cant think of any other use cases to retrieve all cookies.
+894,Happy to go either way.
+895,User interaction depends on it.
+896,Searched up and down to get this done in Windows 10 no success.
+897,Similar has been accomplished in pre.
+898,used Win CE where MS granted more access to source code.
+899,PedestrianFeaturesVisible can be toggle only if MapStyle is set on Road.
+900,Currently when using a ControlChannelTrigger with HttpClient you cannot send a HTTPS request without the application getting terminated by the system.
+901,I tested using HTTPS and to my surprise it does work with the debugger attached no exceptions get thrown so it is implemented.
+902,However termination occurs when the application is NOT connected to the debugger.
+903,And exception is raised.
+904,If we look at .appx/the new installation mechanism as a much saner version of app installation then the more applications it allows the better.
+905,My example: An interactive screen sharing app.
+906,As far as I know this wouldnt be possible with Centennial as it exists today but these kinds of apps are still valuable.
+907,
+908,Not just 12 months.
+909,I have a Style targeting a FontIcon control with a Setter for the FontFamily.
+910,The open source platform IONIC has such a market place and I think its great !
+911,There exist a couple of UWP libraries  but their purpose is not to show beautifully designed apps implementing the material design principles of the framework.
+912,As of now UIElement.Clip accepts only RectangleGeometry in UWP applications.
+913,When UWP app has a Splash Screen with transparent background color declared in the app manifest desktop renders the accent color while phone renders the background color.
+914,I belongs to India and want to register my self in Microsoft developer.
+915,I need to pay life time registration fee for this.
+916,when try to pay my fee there is only one option to make payment which is Credit Card.
+917,No more options are there.
+918,I do not have Credit Card therefore unable to make payment.
+919,I have all these things but does not have only Credit Card and cause of only this minor reason I am unable to make payment.
+920,When games get released on Steam Valve promotes the game for free by displaying it to 1 mln users.
+921,Earlier there was option to cumulative download of all the app and now there is now way I can see total number of app downloads till date.
+922,A report specially to know how many users have updated to a specific version of the App?
+923,On some of my computers I only need the tools for phone deployment such as WinAppDeployCmd.
+924,I dont code on all these machines I only need the tools!
+925,I copied the tools out separately and they are only 106MB.
+926,They work fine without the headers and libraries installed.
+927,This feature is really usefull in messaging apps.
+928,Is it the right place to report bugs to Microsoft?
+929,Why do we need to call bug reports New Ideas?
+930,(Administrator: I am listing this one as a bug because I consider it a existing security issue that can be exploited at present but please feel free to categorize it however you see fit as always!)
+931,Therefore malicious parties could use any URL/location they would like under their control for the WebAuthenticationBroker.Authenticate* calls to phish the credentials of users of this process as users do not see/understand the URL in which the process is loading the content for the authentication workflow and therefore cannot validate its authenticity.
+932,For context here are the steps (as I understand them) that can be used to exploit this process:
+933,That is where your creativity comes in!
+934,If it works pass the user on to the real sign in page (or better yet simply set cookies on the users session that makes it seem all is OK).
+935,9) Rule planet Earth with your new-found powers (OK I made this one up :) )
+936,For reference this is based on a thread started in the MSDN forums which you can see here for additional information:
+937,Thank you for any consideration!
+938,Adding developer revenue or IAP price info to response will allow developers to receive accurate data about their income in requested period.
+939,So I can get the SID or the groups of the user.
+940,Most companies want to control the access of the user by the active directory.
+941,The enterprise application uses this information whether a user got access or not.
+942,Please help us out!
+943,We are an ISV who live in out of the United States.
+944,When we want to set app price Dev Center offers by US Dolloar for base price.
+945,(Previous version of dev center was able to set by local currency.
+946,This is degraded.)
+947,USD is not familiar for us.
+948,"(""We use different local currency basically.)"""
+949,There is no conversion list between USD and local currency.
+950,Microsoft sometimes changes conversion rate due to foreign exchange conversion rate.
+951,Because of this it is hard to find expected price by our local currency.
+952,Conversion rate seems not constant because of this it is hard to find our expected price.
+953,I have certificate in user storage and app storage with same issuer and subject but with different EKU fields.
+954,Certificate in user storage is filtered out and thats the one Im interested in.
+955,I need to check if its installed already or not and function checking it returned false because of this and I ended up installing new one every time.
+956,And none of those duplicates are listed.
+957,Today the UI designer could not work because it cannot parse the node.
+958,Currently the rates/reviews user submitted in Win10 Insider Preview will be disabled later.
+959,And if devs respond to that reviews it will also be deleted.
+960,This is ridiculous behavior for both users and devs.
+961,If MS will disable rates/reviews sent from Win10 IP disallow users to rate/review.
+962,Improvements to Windows Store apps and games visibility
+963,Currently it is not possible to export the app download statistics automatically via an API in the Windows dev center.
+964,Currently Microsoft doesnt have any specific support for beacons.
+965,Beacons are the next generation rulers in the market.
+966,As a windows developer I dont see a good future for windows here
+967,When ever I contact any manufacturer of beacons they basically hesitate to support windows because the limitation in the windows featurest.
+968,We don;t have any separate library for beacons.
+969,Beacon also considered as normal bluetooth device.
+970,Currently I can only read (that too has many limitations)  I cant communicate.
+971,This is a big drawback.
+972,We expected this will be solved in windows 10  but not yet.
+973,Till now many clients for my company left out windows and they moved to iOS and Android.
+974,If this is going to continue then windows will face huge drawback.
+975,I have raised many questions related to this in community forum.
+976,There was no input from there
+977,Im not sure you guys will have a look on this quickly or not.
+978,Even if you have a look Im not sure about your priority.
+979,Windows wings are currently cut down in this area.
+980,In WPF you can use textures and patterns for your app background with the TileBrush class.
+981,Since ImageBrush inherits from TileBrush there is a missed property: Tile.
+982,In windows forms it is easy to have users print without a dialog and to code the printer output to use a specific paper bin.
+983,This functionality is missing in UWP.
+984,One of our applications has users print checks from a shared check printer with the check stock in tray 4.
+985,Currently the Windows Blog commenting system suffers from a myriad of problems:
+986,Conversely with Disqus you get the following benefits:
+987,A blog post has been created to discuss these issues at length and you can read that here:
+988,While most organizations will allow in-store apps its still going to be very inconvenient to deploy apps through the app store for many reasons.
+989,Firstly deployment in the app store requires rigorous testing etc. from Microsoft when the app users wont even be the general public.
+990,Secondly we have many versions of the same application deployed to different customers.
+991,"Read email access Locally is very important to create professional and amazing apps for UWP apps, please allow us to achieve this!"
+992,Watching my app analytics I see *FAR* more devices now have my win10 app than I intended because *updates* still get pushed regardless of the listing settings!
+993,If you are professional developer redesign (your company loves this word) the formal business invoice!
+994,When Microsoft sends a money between the company for your business partner for example outsourced call center do you use credit card for such payment?
+995,It could be something like:
+996,for input nodes
+997,it would be very very appreciated!
+998,I have made an app when I search for it 10 apps pops up and my app isnt any of them.
+999,I just chatted to support they told me that it was because the name was too generic.
